@@ -1,0 +1,8 @@
+body {
+font-family: sans-serif;
+}
+  
+.blink:hover{
+	color: #99DDFF;
+	text-decoration: underline;
+}
